@@ -7,6 +7,7 @@ description: Deploy and secure your services in any environment (for example, cl
 ---
 
 *Estimated reading time*: 2 minutes
+LS EDIT ON GIT. TO DELETE.
 
 AMPLIFY Central is a governance platform that enables a self-service centralized API and microservices management across virtualized networks in any cloud platform or in a private datacenter. Its core features provide API security, monitoring, and traffic management independent of the implementation of the API.
 
